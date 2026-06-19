@@ -1,5 +1,7 @@
 # olympics — every Olympic host city
 
+[![Built with Periplum](https://img.shields.io/badge/built_with-Periplum-4da3ff)](https://periplum.js.org)
+
 Every **Summer** and **Winter** Olympic Games host city, 1896–2032, in chronological order
 — ☀️ for the Summer Games, ❄️ for the Winter Games.
 
