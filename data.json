@@ -1,0 +1,973 @@
+{
+ "items": [
+  {
+   "name": "Athens 1896",
+   "date": "1896-04-06",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 37.98,
+     "lon": 23.73,
+     "label": "Athens 1896",
+     "popup": {
+      "Games": "Summer Olympics 1896",
+      "Host": "Greece"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Paris 1900",
+   "date": "1900-05-14",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "label": "Paris 1900",
+     "popup": {
+      "Games": "Summer Olympics 1900",
+      "Host": "France"
+     }
+    }
+   ]
+  },
+  {
+   "name": "St. Louis 1904",
+   "date": "1904-07-01",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 38.63,
+     "lon": -90.2,
+     "label": "St. Louis 1904",
+     "popup": {
+      "Games": "Summer Olympics 1904",
+      "Host": "United States"
+     }
+    }
+   ]
+  },
+  {
+   "name": "London 1908",
+   "date": "1908-04-27",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 51.5074,
+     "lon": -0.1278,
+     "label": "London 1908",
+     "popup": {
+      "Games": "Summer Olympics 1908",
+      "Host": "United Kingdom"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Stockholm 1912",
+   "date": "1912-05-05",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 59.33,
+     "lon": 18.06,
+     "label": "Stockholm 1912",
+     "popup": {
+      "Games": "Summer Olympics 1912",
+      "Host": "Sweden"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Antwerp 1920",
+   "date": "1920-04-20",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 51.22,
+     "lon": 4.4,
+     "label": "Antwerp 1920",
+     "popup": {
+      "Games": "Summer Olympics 1920",
+      "Host": "Belgium"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Chamonix 1924",
+   "date": "1924-01-25",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 45.92,
+     "lon": 6.87,
+     "label": "Chamonix 1924",
+     "popup": {
+      "Games": "Winter Olympics 1924",
+      "Host": "France"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Paris 1924",
+   "date": "1924-05-04",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "label": "Paris 1924",
+     "popup": {
+      "Games": "Summer Olympics 1924",
+      "Host": "France"
+     }
+    }
+   ]
+  },
+  {
+   "name": "St. Moritz 1928",
+   "date": "1928-02-11",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 46.5,
+     "lon": 9.84,
+     "label": "St. Moritz 1928",
+     "popup": {
+      "Games": "Winter Olympics 1928",
+      "Host": "Switzerland"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Amsterdam 1928",
+   "date": "1928-05-17",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 52.37,
+     "lon": 4.9,
+     "label": "Amsterdam 1928",
+     "popup": {
+      "Games": "Summer Olympics 1928",
+      "Host": "Netherlands"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Lake Placid 1932",
+   "date": "1932-02-04",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 44.28,
+     "lon": -73.98,
+     "label": "Lake Placid 1932",
+     "popup": {
+      "Games": "Winter Olympics 1932",
+      "Host": "United States"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Los Angeles 1932",
+   "date": "1932-07-30",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 34.05,
+     "lon": -118.24,
+     "label": "Los Angeles 1932",
+     "popup": {
+      "Games": "Summer Olympics 1932",
+      "Host": "United States"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Garmisch-Partenkirchen 1936",
+   "date": "1936-02-06",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 47.49,
+     "lon": 11.1,
+     "label": "Garmisch-Partenkirchen 1936",
+     "popup": {
+      "Games": "Winter Olympics 1936",
+      "Host": "Germany"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Berlin 1936",
+   "date": "1936-08-01",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 52.52,
+     "lon": 13.405,
+     "label": "Berlin 1936",
+     "popup": {
+      "Games": "Summer Olympics 1936",
+      "Host": "Germany"
+     }
+    }
+   ]
+  },
+  {
+   "name": "St. Moritz 1948",
+   "date": "1948-01-30",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 46.5,
+     "lon": 9.84,
+     "label": "St. Moritz 1948",
+     "popup": {
+      "Games": "Winter Olympics 1948",
+      "Host": "Switzerland"
+     }
+    }
+   ]
+  },
+  {
+   "name": "London 1948",
+   "date": "1948-07-29",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 51.5074,
+     "lon": -0.1278,
+     "label": "London 1948",
+     "popup": {
+      "Games": "Summer Olympics 1948",
+      "Host": "United Kingdom"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Oslo 1952",
+   "date": "1952-02-14",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 59.91,
+     "lon": 10.75,
+     "label": "Oslo 1952",
+     "popup": {
+      "Games": "Winter Olympics 1952",
+      "Host": "Norway"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Helsinki 1952",
+   "date": "1952-07-19",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 60.17,
+     "lon": 24.94,
+     "label": "Helsinki 1952",
+     "popup": {
+      "Games": "Summer Olympics 1952",
+      "Host": "Finland"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Cortina d'Ampezzo 1956",
+   "date": "1956-01-26",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 46.54,
+     "lon": 12.14,
+     "label": "Cortina d'Ampezzo 1956",
+     "popup": {
+      "Games": "Winter Olympics 1956",
+      "Host": "Italy"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Melbourne 1956",
+   "date": "1956-11-22",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": -37.81,
+     "lon": 144.96,
+     "label": "Melbourne 1956",
+     "popup": {
+      "Games": "Summer Olympics 1956",
+      "Host": "Australia"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Squaw Valley 1960",
+   "date": "1960-02-18",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 39.2,
+     "lon": -120.24,
+     "label": "Squaw Valley 1960",
+     "popup": {
+      "Games": "Winter Olympics 1960",
+      "Host": "United States"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Rome 1960",
+   "date": "1960-08-25",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 41.9,
+     "lon": 12.5,
+     "label": "Rome 1960",
+     "popup": {
+      "Games": "Summer Olympics 1960",
+      "Host": "Italy"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Innsbruck 1964",
+   "date": "1964-01-29",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 47.27,
+     "lon": 11.39,
+     "label": "Innsbruck 1964",
+     "popup": {
+      "Games": "Winter Olympics 1964",
+      "Host": "Austria"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Tokyo 1964",
+   "date": "1964-10-10",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 35.68,
+     "lon": 139.69,
+     "label": "Tokyo 1964",
+     "popup": {
+      "Games": "Summer Olympics 1964",
+      "Host": "Japan"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Grenoble 1968",
+   "date": "1968-02-06",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 45.19,
+     "lon": 5.72,
+     "label": "Grenoble 1968",
+     "popup": {
+      "Games": "Winter Olympics 1968",
+      "Host": "France"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Mexico City 1968",
+   "date": "1968-10-12",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 19.43,
+     "lon": -99.13,
+     "label": "Mexico City 1968",
+     "popup": {
+      "Games": "Summer Olympics 1968",
+      "Host": "Mexico"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Sapporo 1972",
+   "date": "1972-02-03",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 43.06,
+     "lon": 141.35,
+     "label": "Sapporo 1972",
+     "popup": {
+      "Games": "Winter Olympics 1972",
+      "Host": "Japan"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Munich 1972",
+   "date": "1972-08-26",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 48.14,
+     "lon": 11.58,
+     "label": "Munich 1972",
+     "popup": {
+      "Games": "Summer Olympics 1972",
+      "Host": "West Germany"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Innsbruck 1976",
+   "date": "1976-02-04",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 47.27,
+     "lon": 11.39,
+     "label": "Innsbruck 1976",
+     "popup": {
+      "Games": "Winter Olympics 1976",
+      "Host": "Austria"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Montreal 1976",
+   "date": "1976-07-17",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 45.5,
+     "lon": -73.57,
+     "label": "Montreal 1976",
+     "popup": {
+      "Games": "Summer Olympics 1976",
+      "Host": "Canada"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Lake Placid 1980",
+   "date": "1980-02-13",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 44.28,
+     "lon": -73.98,
+     "label": "Lake Placid 1980",
+     "popup": {
+      "Games": "Winter Olympics 1980",
+      "Host": "United States"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Moscow 1980",
+   "date": "1980-07-19",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 55.76,
+     "lon": 37.62,
+     "label": "Moscow 1980",
+     "popup": {
+      "Games": "Summer Olympics 1980",
+      "Host": "Soviet Union"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Sarajevo 1984",
+   "date": "1984-02-08",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 43.85,
+     "lon": 18.36,
+     "label": "Sarajevo 1984",
+     "popup": {
+      "Games": "Winter Olympics 1984",
+      "Host": "Yugoslavia"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Los Angeles 1984",
+   "date": "1984-07-28",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 34.05,
+     "lon": -118.24,
+     "label": "Los Angeles 1984",
+     "popup": {
+      "Games": "Summer Olympics 1984",
+      "Host": "United States"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Calgary 1988",
+   "date": "1988-02-13",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 51.05,
+     "lon": -114.07,
+     "label": "Calgary 1988",
+     "popup": {
+      "Games": "Winter Olympics 1988",
+      "Host": "Canada"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Seoul 1988",
+   "date": "1988-09-17",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 37.57,
+     "lon": 126.98,
+     "label": "Seoul 1988",
+     "popup": {
+      "Games": "Summer Olympics 1988",
+      "Host": "South Korea"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Albertville 1992",
+   "date": "1992-02-08",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 45.68,
+     "lon": 6.39,
+     "label": "Albertville 1992",
+     "popup": {
+      "Games": "Winter Olympics 1992",
+      "Host": "France"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Barcelona 1992",
+   "date": "1992-07-25",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 41.39,
+     "lon": 2.17,
+     "label": "Barcelona 1992",
+     "popup": {
+      "Games": "Summer Olympics 1992",
+      "Host": "Spain"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Lillehammer 1994",
+   "date": "1994-02-12",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 61.12,
+     "lon": 10.46,
+     "label": "Lillehammer 1994",
+     "popup": {
+      "Games": "Winter Olympics 1994",
+      "Host": "Norway"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Atlanta 1996",
+   "date": "1996-07-19",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 33.75,
+     "lon": -84.39,
+     "label": "Atlanta 1996",
+     "popup": {
+      "Games": "Summer Olympics 1996",
+      "Host": "United States"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Nagano 1998",
+   "date": "1998-02-07",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 36.65,
+     "lon": 138.18,
+     "label": "Nagano 1998",
+     "popup": {
+      "Games": "Winter Olympics 1998",
+      "Host": "Japan"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Sydney 2000",
+   "date": "2000-09-15",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": -33.87,
+     "lon": 151.21,
+     "label": "Sydney 2000",
+     "popup": {
+      "Games": "Summer Olympics 2000",
+      "Host": "Australia"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Salt Lake City 2002",
+   "date": "2002-02-08",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 40.76,
+     "lon": -111.89,
+     "label": "Salt Lake City 2002",
+     "popup": {
+      "Games": "Winter Olympics 2002",
+      "Host": "United States"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Athens 2004",
+   "date": "2004-08-13",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 37.98,
+     "lon": 23.73,
+     "label": "Athens 2004",
+     "popup": {
+      "Games": "Summer Olympics 2004",
+      "Host": "Greece"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Turin 2006",
+   "date": "2006-02-10",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 45.07,
+     "lon": 7.69,
+     "label": "Turin 2006",
+     "popup": {
+      "Games": "Winter Olympics 2006",
+      "Host": "Italy"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Beijing 2008",
+   "date": "2008-08-08",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 39.9,
+     "lon": 116.4,
+     "label": "Beijing 2008",
+     "popup": {
+      "Games": "Summer Olympics 2008",
+      "Host": "China"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Vancouver 2010",
+   "date": "2010-02-12",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 49.28,
+     "lon": -123.12,
+     "label": "Vancouver 2010",
+     "popup": {
+      "Games": "Winter Olympics 2010",
+      "Host": "Canada"
+     }
+    }
+   ]
+  },
+  {
+   "name": "London 2012",
+   "date": "2012-07-27",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 51.5074,
+     "lon": -0.1278,
+     "label": "London 2012",
+     "popup": {
+      "Games": "Summer Olympics 2012",
+      "Host": "United Kingdom"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Sochi 2014",
+   "date": "2014-02-07",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 43.6,
+     "lon": 39.73,
+     "label": "Sochi 2014",
+     "popup": {
+      "Games": "Winter Olympics 2014",
+      "Host": "Russia"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Rio de Janeiro 2016",
+   "date": "2016-08-05",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": -22.91,
+     "lon": -43.17,
+     "label": "Rio de Janeiro 2016",
+     "popup": {
+      "Games": "Summer Olympics 2016",
+      "Host": "Brazil"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Pyeongchang 2018",
+   "date": "2018-02-09",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 37.37,
+     "lon": 128.39,
+     "label": "Pyeongchang 2018",
+     "popup": {
+      "Games": "Winter Olympics 2018",
+      "Host": "South Korea"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Tokyo 2020",
+   "date": "2021-07-23",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 35.68,
+     "lon": 139.69,
+     "label": "Tokyo 2020",
+     "popup": {
+      "Games": "Summer Olympics 2020",
+      "Host": "Japan"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Beijing 2022",
+   "date": "2022-02-04",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 39.9,
+     "lon": 116.4,
+     "label": "Beijing 2022",
+     "popup": {
+      "Games": "Winter Olympics 2022",
+      "Host": "China"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Paris 2024",
+   "date": "2024-07-26",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "label": "Paris 2024",
+     "popup": {
+      "Games": "Summer Olympics 2024",
+      "Host": "France"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Milan-Cortina 2026",
+   "date": "2026-02-06",
+   "status": "Winter",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 45.46,
+     "lon": 9.19,
+     "label": "Milan-Cortina 2026",
+     "popup": {
+      "Games": "Winter Olympics 2026",
+      "Host": "Italy"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Los Angeles 2028",
+   "date": "2028-07-14",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": 34.05,
+     "lon": -118.24,
+     "label": "Los Angeles 2028",
+     "popup": {
+      "Games": "Summer Olympics 2028",
+      "Host": "United States"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Brisbane 2032",
+   "date": "2032-07-23",
+   "status": "Summer",
+   "placements": [
+    {
+     "map": "earth",
+     "lat": -27.47,
+     "lon": 153.03,
+     "label": "Brisbane 2032",
+     "popup": {
+      "Games": "Summer Olympics 2032",
+      "Host": "Australia"
+     }
+    }
+   ]
+  }
+ ]
+}
