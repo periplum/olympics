@@ -1,0 +1,24 @@
+name: Refresh data
+
+# Regenerates data.json from the curated host list in build.py, and uploads it as
+# an artifact. The periplum org blocks Actions from pushing or opening PRs, so
+# download the artifact and commit. (Add newly-awarded hosts to GAMES in build.py.)
+on:
+  schedule:
+    - cron: "0 6 1 1 *"   # yearly (1 Jan)
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Regenerate data.json from build.py
+        run: python build.py > data.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: olympics-data
+          path: data.json
